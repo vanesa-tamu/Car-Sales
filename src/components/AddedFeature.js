@@ -1,5 +1,5 @@
 import React from 'react';
-
+//will need state.additionalFeatures.name (gets mapped in AdditionalFeatures.js)
 const AddedFeature = props => {
   return (
     <li>
